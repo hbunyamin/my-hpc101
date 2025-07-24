@@ -7,5 +7,5 @@ The content of Session 0 can be found here: https://hpc101.readthedocs.io/en/lat
 Additionally, resources to aid your preparation for upcoming sessions are provided below.
 
 In-depth materials to expand your knowledge of today’s content include:
-- [UNIX](https://swcarpentry.github.io/shell-novice/aio.html)
+- [UNIX in a Nutshell](https://swcarpentry.github.io/shell-novice/aio.html)
 
