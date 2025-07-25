@@ -6,4 +6,4 @@ The content of Session 0 can be found here: https://hpc101.readthedocs.io/en/lat
 
 Additionally, resources to aid your preparation for upcoming sessions are provided below.
 
-
+Thank You!
